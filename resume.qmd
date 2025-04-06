@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Emma Kohler's CV
 ---
 # Emma Kohler
-Student,.
+Student
 
 <div id="webaddress">
 <a href="emma23engel@gmail.com">emma23engel@gmail.com</a>
@@ -41,7 +41,7 @@ __Brigham Young University of Idaho, Rexburg__
 ## Awards
 MCWIT - Aspirations in computing Award
 
-### Experience
+## Experience
 
 `May 2024 - July 2024  `
 __BYU Employment ~ Provo, UT: Church Youth Camp Counselor (seasonal position)__
